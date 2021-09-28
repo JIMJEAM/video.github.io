@@ -213,7 +213,7 @@ body {
     color: #fff;
 }
 main .quienes {
-    background: #f0f3f5;
+    background: #f4f0f5;
     padding: 60px 0;
 }
 main .quienes .quienes-titulo {
@@ -224,7 +224,8 @@ main .quienes .quienes-titulo {
 }
 main .quienes .quienes-parrafo {
     text-align: center;
-    color: #999999;
+    color: #e51fff;
+    padding-top: 90px;
     font-weight: 600;
 }
 main .quehacemos {
